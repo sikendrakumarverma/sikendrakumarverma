@@ -5,122 +5,103 @@
 </h1>
 
 <h3 align="center">
-  🚀 Backend Engineer | MERN Stack Specialist | Scalable Systems Builder
+  Backend Engineer • MERN Stack Specialist • Scalable Systems Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+with+3%2B+Years+Experience;Node.js+%7C+Express+%7C+MongoDB+%7C+NestJS;WhatsApp+%26+RCS+Business+Integrations;Clean+Architecture+%7C+Distributed+Systems;Building+Production-Ready+Scalable+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=3%2B+Years+Backend+Experience;Node.js+%7C+Express+%7C+MongoDB+%7C+NestJS;WhatsApp+%26+RCS+Business+Integrations;Clean+Architecture+%7C+Distributed+Systems;Building+Production-Ready+Scalable+APIs" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sikendrakumarverma&color=3B82F6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sikendrakumarverma&color=3B82F6&style=flat-square" />
 </p>
 
 ---
 
-# 💎 About Me
+## 💎 About Me
 
-**Name:** Sikendra Kumar Verma  
-**Role:** Backend Developer  
-**Experience:** 3+ Years (4+ Total)  
-**Current Company:** ByWiz InfraTech  
+Backend developer with **3+ years of experience** building scalable, production-grade backend systems.
 
-### 🔹 Specialization
-- Scalable REST APIs  
-- Clean Architecture  
-- Multi-tenant Messaging Platforms  
-- WhatsApp Business & Google RCS Integrations  
+Currently working at **ByWiz InfraTech**, engineering multi-tenant messaging platforms and socially enabled e-commerce backends.
 
-### 🔹 Current Focus
-- Distributed Systems  
-- AWS & DevOps  
-- Performance Optimization  
-- System Design  
+- Scalable REST API design  
+- Clean & modular architecture  
+- WhatsApp Business & Google RCS integrations  
+- Distributed backend services  
+- Performance optimization & system design  
 
 🏆 A.P.J Abdul Kalam Gold Medalist (EEE)  
 🧠 165+ Problems Solved on LeetCode  
-🚀 Promoted through ownership, scalability & performance delivery  
+🚀 Promoted through ownership & performance delivery  
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-### 👨‍💻 Core Languages
+### Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
-### 🏗 Backend Engineering
+### Backend Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-### 🗄 Databases & Caching
+### Databases & Caching
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" />
 </p>
 
-### 🔌 Integrations & Tools
-- Meta WhatsApp Business APIs  
-- Google RCS Business Messaging  
-- WebSockets / Socket.io  
-- BullMQ (Queue Systems)  
-- Prisma ORM  
-- EC2, S3  
-- Postman, Chai, Mocha, Supertest  
+### Integrations
+Meta WhatsApp Business APIs • Google RCS Business Messaging • WebSockets • BullMQ • Prisma • EC2 • S3 • Postman • Chai • Mocha • Supertest
 
 ---
 
-# 🚀 Professional Impact
+## 🚀 Professional Experience
 
-### 🏢 Backend Developer — ByWiz InfraTech (Oct 2023 – Present)
+### Backend Developer — ByWiz InfraTech  
+*Oct 2023 – Present*
 
 - Built India’s first Home-to-Consumer socially enabled e-commerce backend  
-- Designed modular & reusable system architecture  
+- Designed reusable, modular backend architecture  
 - Integrated WhatsApp Authentication, Utility & Marketing APIs  
 - Integrated Google RCS Business Messaging  
-- Built referral, cashback, delivery & commission systems  
-- Optimized performance & reduced API response time  
-- Engineered scalable partner onboarding & order lifecycle modules  
+- Engineered referral, cashback, delivery & commission systems  
+- Reduced API response time through performance optimization  
+- Built scalable partner onboarding & order lifecycle systems  
 
 ---
 
-# 🧠 Featured Projects
+## 🧠 Featured Projects
 
 ### 📚 BookStore Platform
-- MERN stack architecture  
-- JWT authentication & AWS S3  
-- Clean modular backend  
+MERN architecture • JWT authentication • AWS S3 integration • Modular backend design  
 
 ### 🛒 E-Commerce Backend
-- Flipkart-inspired architecture  
-- Secure JWT + Bcrypt authentication  
-- MongoDB + AWS S3  
+Flipkart-inspired system • Secure JWT + Bcrypt authentication • MongoDB + AWS S3  
 
-### 🔗 URL Shortener (TinyURL Clone)
-- Redis caching  
-- Scalable link generation system  
+### 🔗 URL Shortener
+Redis caching • Scalable link generation service  
 
 ### 💬 Real-Time Chat Application
-- WebSockets (Socket.io)  
-- WhatsApp-like messaging flow  
+WebSockets (Socket.io) • WhatsApp-style messaging  
 
 ### 🎬 Video Uploading Platform
-- Secure media upload APIs  
-- AWS S3 integration  
+Secure media APIs • AWS S3 integration  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikendrakumarverma&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikendrakumarverma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -129,24 +110,24 @@
 
 ---
 
-# 🎯 What I'm Building Now
+## 🎯 What I'm Building Now
 
-- Multi-tenant WhatsApp Messaging Platform  
-- RCS Business Messaging Systems  
+- Multi-tenant WhatsApp messaging platform  
+- RCS Business Messaging systems  
 - Production-grade scalable APIs  
-- AWS automated deployments  
+- AWS-based deployment automation  
 - Distributed backend services  
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-🎓 **B.Tech – Electrical Engineering (86.6%)**  
+**B.Tech – Electrical Engineering (86.6%)**  
 Jharkhand Rai University (2018 – 2022)
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -167,5 +148,5 @@ Jharkhand Rai University (2018 – 2022)
 ---
 
 <p align="center">
-  <b>“Design scalable systems. Write clean code. Deliver impact.”</b>
+  <i>"Design scalable systems. Write clean code. Deliver impact."</i>
 </p>
