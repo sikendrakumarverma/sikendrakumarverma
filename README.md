@@ -1,4 +1,4 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">
   Hi 👋, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
@@ -13,14 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sikendrakumarverma&color=3B82F6&style=for-the-badge" />
 </p>
 
----
 
 # 💎 About Me
 
-yaml
 name: Sikendra Kumar Verma
 role: Backend Developer
 experience: 3+ Years (4+ Total)
@@ -41,7 +39,7 @@ current_focus:
 
 ⚙️ Tech Arsenal
 👨‍💻 Core Languages
-<p> <img src="https://skillicons.dev/icons?i=js,ts,java" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts" /> </p>
 🏗 Backend Engineering
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
 🗄 Databases & Caching
