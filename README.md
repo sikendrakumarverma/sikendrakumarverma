@@ -1,7 +1,7 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= GLASS HEADER ================= -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
+  👋 Hi, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
 </h1>
 
 <h3 align="center">
@@ -18,90 +18,107 @@
 
 ---
 
+<!-- ================= GLASS CARD ================= -->
+
+<div align="center">
+
+<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
+<tr>
+<td>
+
 ## 💎 About Me
 
-Backend developer with **3+ years of experience** building scalable, production-grade backend systems.
+Backend Developer with **3+ years of experience** building scalable, modular backend systems.
 
-Currently working at **ByWiz InfraTech**, engineering multi-tenant messaging platforms and socially enabled e-commerce backends.
+Currently at **ByWiz InfraTech**, developing multi-tenant messaging platforms and socially enabled commerce systems.
 
-- Scalable REST API design  
-- Clean & modular architecture  
-- WhatsApp Business & Google RCS integrations  
-- Distributed backend services  
-- Performance optimization & system design  
+### 🔹 Specialization
+- Scalable REST APIs  
+- Clean Architecture  
+- WhatsApp Business & Google RCS Integrations  
+- Distributed Systems  
 
-🏆 A.P.J Abdul Kalam Gold Medalist (EEE)  
-🧠 165+ Problems Solved on LeetCode  
-🚀 Promoted through ownership & performance delivery  
+### 🔹 Focus
+- AWS & DevOps  
+- Performance Optimization  
+- System Design  
+
+🏆 A.P.J Abdul Kalam Gold Medalist  
+🧠 165+ LeetCode Problems Solved  
+🚀 Promoted through ownership & delivery  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## ⚙️ Tech Stack
 
+<div align="center">
+
+<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
+<tr>
+<td align="center">
+
 ### Core Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-### Backend Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
+<br/><br/>
 
-### Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+<br/><br/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+
+<br/><br/>
 
 ### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" />
 
-### Integrations
-Meta WhatsApp Business APIs • Google RCS Business Messaging • WebSockets • BullMQ • Prisma • EC2 • S3 • Postman • Chai • Mocha • Supertest
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 Professional Impact
 
-### Backend Developer — ByWiz InfraTech  
-*Oct 2023 – Present*
+<div align="center">
 
-- Built India’s first Home-to-Consumer socially enabled e-commerce backend  
-- Designed reusable, modular backend architecture  
+<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
+<tr>
+<td>
+
+### Backend Developer — ByWiz InfraTech (Oct 2023 – Present)
+
+- Built India's first Home-to-Consumer socially enabled e-commerce backend  
+- Designed modular reusable system architecture  
 - Integrated WhatsApp Authentication, Utility & Marketing APIs  
 - Integrated Google RCS Business Messaging  
-- Engineered referral, cashback, delivery & commission systems  
-- Reduced API response time through performance optimization  
-- Built scalable partner onboarding & order lifecycle systems  
+- Built referral, cashback & commission systems  
+- Reduced API response time with performance tuning  
+- Engineered scalable partner onboarding & order lifecycle modules  
 
----
+</td>
+</tr>
+</table>
 
-## 🧠 Featured Projects
-
-### 📚 BookStore Platform
-MERN architecture • JWT authentication • AWS S3 integration • Modular backend design  
-
-### 🛒 E-Commerce Backend
-Flipkart-inspired system • Secure JWT + Bcrypt authentication • MongoDB + AWS S3  
-
-### 🔗 URL Shortener
-Redis caching • Scalable link generation service  
-
-### 💬 Real-Time Chat Application
-WebSockets (Socket.io) • WhatsApp-style messaging  
-
-### 🎬 Video Uploading Platform
-Secure media APIs • AWS S3 integration  
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikendrakumarverma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -110,20 +127,13 @@ Secure media APIs • AWS S3 integration
 
 ---
 
-## 🎯 What I'm Building Now
+## 🎯 What I'm Building
 
-- Multi-tenant WhatsApp messaging platform  
-- RCS Business Messaging systems  
+- Multi-tenant WhatsApp Messaging Platform  
+- RCS Business Messaging Systems  
 - Production-grade scalable APIs  
-- AWS-based deployment automation  
+- AWS automated deployments  
 - Distributed backend services  
-
----
-
-## 🎓 Education
-
-**B.Tech – Electrical Engineering (86.6%)**  
-Jharkhand Rai University (2018 – 2022)
 
 ---
 
@@ -132,7 +142,7 @@ Jharkhand Rai University (2018 – 2022)
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -148,5 +158,5 @@ Jharkhand Rai University (2018 – 2022)
 ---
 
 <p align="center">
-  <i>"Design scalable systems. Write clean code. Deliver impact."</i>
+  <i>“Design scalable systems. Write clean code. Deliver impact.”</i>
 </p>
