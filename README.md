@@ -1,209 +1,132 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Sikendra Kumar Verma</h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack Specialist | API Integration Expert</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&center=true&vCenter=true&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;MERN+Stack+Developer;Scalable+API+Builder;RCS+%7C+WhatsApp+Business+Integrations" />
-</p>
-
-<br/>
-
-<hr/>
-
-<h2>🔵 About Me</h2>
-
-💻 Backend Developer with 3+ years of relevant experience  
-🏢 Currently working at <b>ByWiz InfraTech</b> (Oct 2023 – Present)  
-⚡ Strong in building scalable & modular backend systems  
-🔗 Experienced in Meta WhatsApp APIs, Google RCS, Payment & Logistics integrations  
-🧠 Passionate about System Design, Distributed Systems & Clean Architecture  
-📈 Solved 165+ problems on LeetCode  
-🏆 Awarded by A.P.J Abdul Kalam Gold Medal (EEE – Jharkhand Rai University)
-
-<br/>
-
-<hr/>
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>👨‍💻 Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java" />
-</p>
-
-<h3>⚙️ Backend & Frameworks</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-<h3>🗄 Database & Cache</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
-</p>
-
-<h3>☁️ Cloud & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux" />
-</p>
-
-<h3>🧰 Tools & Others</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,bash" />
-</p>
-
-• BullMQ  
-• Prisma  
-• WebSockets & Pusher  
-• Meta WhatsApp Business API  
-• Google RCS Business Messaging  
-• ChatGPT, Leonardo AI  
-• EC2, S3  
-• Terraform, Ansible  
-
-<br/>
-
-<hr/>
-
-<h2>🚀 Professional Experience</h2>
-
-### 🏢 ByWiz InfraTech — Backend Developer (Oct 2023 – Present)
-
-- Developed India’s first Home-to-Consumer social commerce platform  
-- Built scalable REST APIs using Clean Architecture  
-- Integrated Meta WhatsApp APIs (Auth, Utility, Marketing Templates)  
-- Integrated Google RCS Business Messaging  
-- Developed Referral, Cashback, Delivery & Commission systems  
-- Designed modular helper functions & optimized backend performance  
-- Worked on business partner onboarding, order lifecycle & franchise modules  
-
----
-
-### 🏢 StackLab — MERN Stack Developer (Apr 2023 – Oct 2023)
-
-- Built APIs for Zidgin & admin panel  
-- Improved system efficiency & optimized queries  
-- Developed scalable backend modules  
-
----
-
-### 🏢 FunctionUp — Backend Developer Trainee (Jul 2022 – Apr 2023)
-
-- Backend development using Node.js, Express & MongoDB  
-- Built scalable APIs & practiced DSA  
-- Participated in coding contests & problem-solving  
-
----
-
-### 🏢 Kinetic Process Technology India Pvt. Ltd. (Mar 2022 – Jul 2022)
-
-- Junior Engineer Trainee  
-- Worked in technical problem-solving & operations  
-
-<br/>
-
-<hr/>
-
-<h2>🔥 Featured Projects</h2>
-
-### 📚 BookStore
-- MERN stack bookstore with JWT authentication  
-- AWS S3 integration  
-- Secure APIs & modular architecture  
-
----
-
-### 🛍 E-Commerce Shopping Cart
-- Flipkart-inspired backend  
-- JWT authentication & Bcrypt encryption  
-- MongoDB + AWS S3  
-
----
-
-### 🔗 URL Shortener
-- TinyURL-like service  
-- Redis caching for performance  
-- MongoDB & Node.js  
-
----
-
-### 💬 Real-Time Chat App
-- WhatsApp-like chat app  
-- WebSockets (Socket.io)  
-- Node.js + HTML + CSS  
-
----
-
-### 🎬 Video Uploading Site
-- YouTube-inspired backend  
-- AWS S3 integration  
-- Secure media APIs  
-
----
-
-### 🎓 Open Intern Project
-- Internship management backend  
-- CRUD operations with secure JWT APIs  
-
-<br/>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
+<h3 align="center">
+  🚀 Backend Engineer | MERN Stack Specialist | Scalable Systems Builder
+</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+with+3%2B+Years+Experience;Node.js+%7C+Express+%7C+MongoDB+%7C+NestJS;WhatsApp+%26+RCS+Business+Integrations;Clean+Architecture+%7C+Distributed+Systems;Building+Production-Ready+Scalable+APIs" />
 </p>
-
-<br/>
-
-<hr/>
-
-<h2>🎯 Current Focus</h2>
-
-🔵 Distributed System Design  
-🔵 Multi-tenant WhatsApp & RCS Messaging Platforms  
-🔵 High-performance scalable APIs  
-🔵 AWS & DevOps Automation  
-🔵 Clean Architecture & Modular Backend Systems  
-
-<br/>
-
-<hr/>
-
-<h2>🎓 Education</h2>
-
-🎓 B.Tech – Electrical Engineering (86.6%)  
-Jharkhand Rai University, Ranchi (2018 – 2022)
-
-🏫 12th – 63% (2016 – 2018)  
-🏫 10th – 76% (2015 – 2016)
-
-<br/>
-
-<hr/>
-
-<h2>🌐 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge" />
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=flat-square"/>
-</p>
+# 💎 About Me
 
+```yaml
+name: Sikendra Kumar Verma
+role: Backend Developer
+experience: 3+ Years (4+ Total)
+current_company: ByWiz InfraTech
+specialization:
+  - Scalable REST APIs
+  - Clean Architecture
+  - Multi-tenant Messaging Platforms
+  - WhatsApp Business & Google RCS Integrations
+current_focus:
+  - Distributed Systems
+  - AWS & DevOps
+  - Performance Optimization
+  - System Design
+🏆 A.P.J Abdul Kalam Gold Medalist (EEE)
+🧠 165+ Problems Solved on LeetCode
+🚀 Promoted through ownership, scalability & performance delivery
+
+⚙️ Tech Arsenal
+👨‍💻 Core Languages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,java" /> </p>
+🏗 Backend Engineering
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
+🗄 Databases & Caching
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux,bash" /> </p>
+🔌 Integrations & Tools
+
+Meta WhatsApp Business APIs
+
+Google RCS Business Messaging
+
+WebSockets / Socket.io
+
+BullMQ (Queue Systems)
+
+Prisma ORM
+
+EC2, S3
+
+Terraform, Ansible
+
+Postman, Chai, Mocha, Supertest
+
+🚀 Professional Impact
+🏢 Backend Developer — ByWiz InfraTech (Oct 2023 – Present)
+
+✨ Built India’s first Home-to-Consumer social commerce backend
+✨ Designed modular & reusable system architecture
+✨ Integrated WhatsApp Authentication, Utility & Marketing APIs
+✨ Integrated Google RCS Business Messaging
+✨ Built referral, cashback, delivery & commission systems
+✨ Optimized performance & reduced API response time
+✨ Engineered scalable partner onboarding & order lifecycle modules
+
+🧠 Featured Projects
+📚 BookStore Platform
+
+MERN stack architecture
+
+JWT authentication & AWS S3
+
+Clean modular backend
+
+🛒 E-Commerce Backend
+
+Flipkart-inspired architecture
+
+Secure JWT + Bcrypt authentication
+
+MongoDB + AWS S3
+
+🔗 URL Shortener (TinyURL Clone)
+
+Redis caching
+
+Scalable link generation system
+
+💬 Real-Time Chat Application
+
+WebSockets (Socket.io)
+
+WhatsApp-like messaging flow
+
+🎬 Video Uploading Platform
+
+Secure media upload APIs
+
+AWS S3 integration
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+🎯 What I'm Building Now
+
+🔵 Multi-tenant WhatsApp Messaging Platform
+🔵 RCS Business Messaging Systems
+🔵 Production-grade scalable APIs
+🔵 AWS automated deployments
+🔵 Distributed backend services
+
+🎓 Education
+
+🎓 B.Tech – Electrical Engineering (86.6%)
+Jharkhand Rai University (2018 – 2022)
+
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://YOUR_PORTFOLIO"> <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </p>
+<p align="center"> <b>“Design scalable systems. Write clean code. Deliver impact.”</b> </p> ```
