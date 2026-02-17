@@ -20,7 +20,7 @@
 
 # 💎 About Me
 
-```yaml
+yaml
 name: Sikendra Kumar Verma
 role: Backend Developer
 experience: 3+ Years (4+ Total)
@@ -129,4 +129,4 @@ Jharkhand Rai University (2018 – 2022)
 
 🌐 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://YOUR_PORTFOLIO"> <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </p>
-<p align="center"> <b>“Design scalable systems. Write clean code. Deliver impact.”</b> </p> ```
+<p align="center"> <b>“Design scalable systems. Write clean code. Deliver impact.”</b> </p> 
