@@ -1,7 +1,7 @@
-<!-- ================= GLASS HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
+  Hi 👋, I'm <span style="color:#3B82F6;">Sikendra Kumar Verma</span>
 </h1>
 
 <h3 align="center">
@@ -18,107 +18,90 @@
 
 ---
 
-<!-- ================= GLASS CARD ================= -->
-
-<div align="center">
-
-<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
-<tr>
-<td>
-
 ## 💎 About Me
 
-Backend Developer with **3+ years of experience** building scalable, modular backend systems.
+Backend developer with **3+ years of experience** building scalable, production-grade backend systems.
 
-Currently at **ByWiz InfraTech**, developing multi-tenant messaging platforms and socially enabled commerce systems.
+Currently working at **ByWiz InfraTech**, engineering multi-tenant messaging platforms and socially enabled e-commerce backends.
 
-### 🔹 Specialization
-- Scalable REST APIs  
-- Clean Architecture  
-- WhatsApp Business & Google RCS Integrations  
-- Distributed Systems  
+- Scalable REST API design  
+- Clean & modular architecture  
+- WhatsApp Business & Google RCS integrations  
+- Distributed backend services  
+- Performance optimization & system design  
 
-### 🔹 Focus
-- AWS & DevOps  
-- Performance Optimization  
-- System Design  
-
-🏆 A.P.J Abdul Kalam Gold Medalist  
-🧠 165+ LeetCode Problems Solved  
-🚀 Promoted through ownership & delivery  
-
-</td>
-</tr>
-</table>
-
-</div>
+🏆 A.P.J Abdul Kalam Gold Medalist (EEE)  
+🧠 165+ Problems Solved on LeetCode  
+🚀 Promoted through ownership & performance delivery  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-
-<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
-<tr>
-<td align="center">
-
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-<br/><br/>
+### Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-<br/><br/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
-
-<br/><br/>
+### Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+</p>
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" />
+</p>
 
-</td>
-</tr>
-</table>
-
-</div>
+### Integrations
+Meta WhatsApp Business APIs • Google RCS Business Messaging • WebSockets • BullMQ • Prisma • EC2 • S3 • Postman • Chai • Mocha • Supertest
 
 ---
 
-## 🚀 Professional Impact
+## 🚀 Professional Experience
 
-<div align="center">
+### Backend Developer — ByWiz InfraTech  
+*Oct 2023 – Present*
 
-<table width="100%" style="border-radius:16px; border:1px solid #2e2e2e; background:rgba(255,255,255,0.03); padding:20px;">
-<tr>
-<td>
-
-### Backend Developer — ByWiz InfraTech (Oct 2023 – Present)
-
-- Built India's first Home-to-Consumer socially enabled e-commerce backend  
-- Designed modular reusable system architecture  
+- Built India’s first Home-to-Consumer socially enabled e-commerce backend  
+- Designed reusable, modular backend architecture  
 - Integrated WhatsApp Authentication, Utility & Marketing APIs  
 - Integrated Google RCS Business Messaging  
-- Built referral, cashback & commission systems  
-- Reduced API response time with performance tuning  
-- Engineered scalable partner onboarding & order lifecycle modules  
+- Engineered referral, cashback, delivery & commission systems  
+- Reduced API response time through performance optimization  
+- Built scalable partner onboarding & order lifecycle systems  
 
-</td>
-</tr>
-</table>
+---
 
-</div>
+## 🧠 Featured Projects
+
+### 📚 BookStore Platform
+MERN architecture • JWT authentication • AWS S3 integration • Modular backend design  
+
+### 🛒 E-Commerce Backend
+Flipkart-inspired system • Secure JWT + Bcrypt authentication • MongoDB + AWS S3  
+
+### 🔗 URL Shortener
+Redis caching • Scalable link generation service  
+
+### 💬 Real-Time Chat Application
+WebSockets (Socket.io) • WhatsApp-style messaging  
+
+### 🎬 Video Uploading Platform
+Secure media APIs • AWS S3 integration  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sikendrakumarverma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikendrakumarverma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -127,13 +110,20 @@ Currently at **ByWiz InfraTech**, developing multi-tenant messaging platforms an
 
 ---
 
-## 🎯 What I'm Building
+## 🎯 What I'm Building Now
 
-- Multi-tenant WhatsApp Messaging Platform  
-- RCS Business Messaging Systems  
+- Multi-tenant WhatsApp messaging platform  
+- RCS Business Messaging systems  
 - Production-grade scalable APIs  
-- AWS automated deployments  
+- AWS-based deployment automation  
 - Distributed backend services  
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electrical Engineering (86.6%)**  
+Jharkhand Rai University (2018 – 2022)
 
 ---
 
@@ -142,7 +132,7 @@ Currently at **ByWiz InfraTech**, developing multi-tenant messaging platforms an
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -158,5 +148,5 @@ Currently at **ByWiz InfraTech**, developing multi-tenant messaging platforms an
 ---
 
 <p align="center">
-  <i>“Design scalable systems. Write clean code. Deliver impact.”</i>
+  <i>"Design scalable systems. Write clean code. Deliver impact."</i>
 </p>
