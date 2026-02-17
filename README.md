@@ -59,7 +59,7 @@ Currently working at **ByWiz InfraTech**, engineering multi-tenant messaging pla
 </p>
 
 ### Integrations
-Meta WhatsApp Business APIs • Google RCS Business Messaging • WebSockets • BullMQ • Prisma • EC2 • S3 • Postman • Chai • Mocha • Supertest
+Meta WhatsApp Business APIs • Google RCS Business Messaging • WebSockets • Logistics • BullMQ • Prisma • EC2 • S3 • Postman • Chai • Mocha • Supertest
 
 ---
 
@@ -131,15 +131,15 @@ Jharkhand Rai University (2018 – 2022)
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sikendra-kumar-verma-6539a8239/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:grdskverma2018@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://sikendra-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
