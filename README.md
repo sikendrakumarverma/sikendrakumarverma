@@ -37,15 +37,15 @@ current_focus:
 🧠 165+ Problems Solved on LeetCode
 🚀 Promoted through ownership, scalability & performance delivery
 
-⚙️ Tech Arsenal
+⚙️ Tech Stack
 👨‍💻 Core Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts" /> </p>
 🏗 Backend Engineering
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
 🗄 Databases & Caching
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" /> </p>
 ☁️ Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux,bash" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,linux,bash" /> </p>
 🔌 Integrations & Tools
 
 Meta WhatsApp Business APIs
@@ -60,14 +60,12 @@ Prisma ORM
 
 EC2, S3
 
-Terraform, Ansible
-
 Postman, Chai, Mocha, Supertest
 
 🚀 Professional Impact
 🏢 Backend Developer — ByWiz InfraTech (Oct 2023 – Present)
 
-✨ Built India’s first Home-to-Consumer social commerce backend
+✨ Built India’s first Home-to-Consumer socially enabled e-commerce backend
 ✨ Designed modular & reusable system architecture
 ✨ Integrated WhatsApp Authentication, Utility & Marketing APIs
 ✨ Integrated Google RCS Business Messaging
